@@ -1,0 +1,6 @@
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.Lab1\DAA.DP.Lab2v3\bin\Debug\DAA.DP.Lab2v3.exe.config
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.Lab1\DAA.DP.Lab2v3\bin\Debug\DAA.DP.Lab2v3.exe
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.Lab1\DAA.DP.Lab2v3\bin\Debug\DAA.DP.Lab2v3.pdb
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.Lab1\DAA.DP.Lab2v3\obj\Debug\DAA.DP.Lab2v3.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.Lab1\DAA.DP.Lab2v3\obj\Debug\DAA.DP.Lab2v3.exe
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.Lab1\DAA.DP.Lab2v3\obj\Debug\DAA.DP.Lab2v3.pdb

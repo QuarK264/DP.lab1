@@ -1,0 +1,9 @@
+diff a/DAA.DP.Lab2v3/CarParts/BigWheels.cs b/DAA.DP.Lab2v3/CarParts/BigWheels.cs	(rejected hunks)
+@@ -0,6 +0,7 @@
+ {
+     public class BigWheels : Wheels
+     {
++        public BigWheels()
+         {
+             Console.WriteLine("Wheels are 15\"");
+         }
